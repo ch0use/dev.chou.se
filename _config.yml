@@ -27,6 +27,8 @@ url: "http://dev.chou.se" # the base hostname & protocol for your site, e.g. htt
 twitter_username: chouse
 github_username:  ch0use
 
+show_excerpts: true
+
 # Build settings
 theme: minima
 plugins:
